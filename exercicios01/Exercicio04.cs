@@ -6,11 +6,16 @@ namespace exercicios01
 {
     public class Exercicio04
     {
-        public double Vendedor(string nome, double vendasEfetuadas)
+        public string Salario(string vendedor,double salarioFixo, double totalDeVendas)
         {
-            double salarioFixo = 0;
-            double salarioFinal = 0;
-            return salarioFinal = salarioFixo + (vendasEfetuadas * 0.2);
+            double comissao = totalDeVendas*0.20;
+            double salarioFinal = salarioFixo + comissao;
+            return "Nome do Vendedor: "
+                + vendedor
+                + "\r\nSalario Fixo: R$:"
+                + salarioFixo.ToString("F2")
+                + "\r\nSalario no final do mês: R$:"
+                + salarioFinal.ToString("F2");
         }
     }
 }

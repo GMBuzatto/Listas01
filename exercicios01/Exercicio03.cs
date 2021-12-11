@@ -6,9 +6,9 @@ namespace exercicios01
 {
     public class Exercicio03
     {
-        public double ConsumoMedio(double distanciaTotal,double totalCombustivelGasto)
+        public string ConsumoMedio(double distanciaTotal,double totalCombustivelGasto)
         {
-            return distanciaTotal / totalCombustivelGasto;
+            return "Consumo Médio: "+ distanciaTotal / totalCombustivelGasto + "KM/L";
         }
     }
 }

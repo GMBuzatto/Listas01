@@ -13,7 +13,7 @@ namespace exercicios01
             string conclusao;
             return conclusao =
                 "Valor do Dolar convertido para Reais: R$:"
-                + real;
+                + real.ToString("F2");
 
         }
     }

@@ -6,7 +6,7 @@ namespace exercicios01
 {
     public class Exercicio02
     {
-        public double Operacao(string operacao, double valor1, double valor2)
+        public string Operacao(string operacao, double valor1, double valor2)
         {
             double resultado = 0;
             switch (operacao)
@@ -24,7 +24,7 @@ namespace exercicios01
                     resultado = valor1 / valor2;
                     break;
             }
-            return resultado;
+            return "Resutaldo: "+resultado;
         }
     }
 }
