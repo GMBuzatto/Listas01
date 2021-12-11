@@ -1,0 +1,14 @@
+D:\Test\Listas01\exercicios01\exercicios01\bin\Debug\netcoreapp3.1\exercicios01.exe
+D:\Test\Listas01\exercicios01\exercicios01\bin\Debug\netcoreapp3.1\exercicios01.deps.json
+D:\Test\Listas01\exercicios01\exercicios01\bin\Debug\netcoreapp3.1\exercicios01.runtimeconfig.json
+D:\Test\Listas01\exercicios01\exercicios01\bin\Debug\netcoreapp3.1\exercicios01.runtimeconfig.dev.json
+D:\Test\Listas01\exercicios01\exercicios01\bin\Debug\netcoreapp3.1\exercicios01.dll
+D:\Test\Listas01\exercicios01\exercicios01\bin\Debug\netcoreapp3.1\exercicios01.pdb
+D:\Test\Listas01\exercicios01\exercicios01\obj\Debug\netcoreapp3.1\exercicios01.csproj.AssemblyReference.cache
+D:\Test\Listas01\exercicios01\exercicios01\obj\Debug\netcoreapp3.1\exercicios01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Listas01\exercicios01\exercicios01\obj\Debug\netcoreapp3.1\exercicios01.AssemblyInfoInputs.cache
+D:\Test\Listas01\exercicios01\exercicios01\obj\Debug\netcoreapp3.1\exercicios01.AssemblyInfo.cs
+D:\Test\Listas01\exercicios01\exercicios01\obj\Debug\netcoreapp3.1\exercicios01.csproj.CoreCompileInputs.cache
+D:\Test\Listas01\exercicios01\exercicios01\obj\Debug\netcoreapp3.1\exercicios01.dll
+D:\Test\Listas01\exercicios01\exercicios01\obj\Debug\netcoreapp3.1\exercicios01.pdb
+D:\Test\Listas01\exercicios01\exercicios01\obj\Debug\netcoreapp3.1\exercicios01.genruntimeconfig.cache
