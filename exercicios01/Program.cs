@@ -6,7 +6,7 @@ namespace exercicios01
     {
         static void Main(string[] args)
         {
-            /*
+            
             Console.WriteLine("Exercicio 01");
             Console.WriteLine("Entre com o primeiro valor: ");
             double valor1 = Convert.ToDouble(Console.ReadLine());
@@ -32,7 +32,7 @@ namespace exercicios01
             Console.WriteLine("Total de combustível gasto: ");
             double totalCombustivelGasto = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine(exercicio03.ConsumoMedio(distanciaTotal,totalCombustivelGasto));
-            Console.WriteLine("___________________________________________________________________");*/
+            Console.WriteLine("___________________________________________________________________");
             Console.WriteLine("Exercicio 04");
             Exercicio04 exercicio04 = new Exercicio04();
             Console.WriteLine("Entre com o nome do vendedor: ");
