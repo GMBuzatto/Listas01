@@ -67,7 +67,14 @@ namespace exercicios01
             Console.Write("C=");
             int c = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(exercicio07.GrausToFahrenheit(c));
-
+            Console.WriteLine("___________________________________________________________________");
+            Console.WriteLine("Exercicio 08");
+            Exercicio08 exercicio08 = new Exercicio08();
+            Console.WriteLine("Entre com um valor inteiro da cotação do Dolar hoje: ");
+            int cotacaoDolar = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Entre com a quantia de dólares do usuário: ");
+            int valorDolar = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(exercicio08.RealToDolar(cotacaoDolar,valorDolar));
         }
     }
 }
